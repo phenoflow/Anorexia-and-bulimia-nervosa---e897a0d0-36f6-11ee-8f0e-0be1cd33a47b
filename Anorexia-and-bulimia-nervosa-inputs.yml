@@ -1,0 +1,27 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/anorexia---primary.py
+inputModule3:
+  class: File
+  path: python/bulimia---primary.py
+inputModule4:
+  class: File
+  path: python/atypical-anorexia-and-bulimia-nervosa---primary.py
+inputModule5:
+  class: File
+  path: python/anorexia-and-bulimia-nervosa---primary.py
+inputModule6:
+  class: File
+  path: python/anorexia---secondary.py
+inputModule7:
+  class: File
+  path: python/atypical-anorexia-and-bulimia-nervosa---secondary.py
+inputModule8:
+  class: File
+  path: python/bulimia---secondary.py
+inputModule9:
+  class: File
+  path: python/output-cases.py
